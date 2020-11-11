@@ -1,0 +1,4 @@
+include:
+  - ci/core.yml
+  - ci/build.yml
+  - ci/deploy.yml
